@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "rorygeddes.eth",
-  description: "Welcome to my Ethereum portfolio page",
+  title: "Financify",
+  description: "The future of financial management. Pay bills, invest, and manage your money - all in one place.",
 };
 
 export default function RootLayout({
